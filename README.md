@@ -13,12 +13,16 @@ Desain yang digunakan untuk kelompok A yaitu Hierarchical Inheritance. kelas Shi
 Kelompok A
 <br>
 ![A-1](https://user-images.githubusercontent.com/90953569/156916360-ad539418-f65a-4dcf-87a6-9171a065dfeb.png)
+<br>
 ![A-2](https://user-images.githubusercontent.com/90953569/156916361-7e1b0f82-9d93-49b3-b9a5-7426eaa56ffb.png)
+<br>
 ![A-3](https://user-images.githubusercontent.com/90953569/156916362-40aaaaa0-e47c-4686-b2a3-921d38bf5153.png)
 
 <br>
 Kelompok B
 <br>
 ![B-1](https://user-images.githubusercontent.com/90953569/156916421-c99731d8-b2eb-46e3-ad4e-a7ee5391c1d0.png)
+<br>
 ![B-2](https://user-images.githubusercontent.com/90953569/156916423-4857b2e7-2226-45bd-982b-1ae9ff6401ab.png)
+<br>
 ![B-3](https://user-images.githubusercontent.com/90953569/156916424-3e8ce9a7-211d-4e77-ab27-550db06b62ee.png)
