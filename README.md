@@ -6,6 +6,8 @@ Saya Nyoman Ari Satyadharma 2000831 mengerjakan Latihan 4 DPBO 2022 dalam mata k
 <br><br>
 
 ## Penjelasan Desain
+![Desain LATIHAN4DPBO2022](https://user-images.githubusercontent.com/90953569/156916588-c2d6ac63-150f-4ea3-9eb6-4dfe61144e37.png)
+<br><br>
 Desain yang digunakan untuk kelompok A yaitu Hierarchical Inheritance. kelas Ship dan Airplane secara hierarki merupakan sebuah kendaraan (Vehicle) yang memiliki atribut nama, jenis bahan bakar, dan kapasitas penumpang. Sehingga kelas Ship dan kelas Airplane memiliki parent class yang sama, yaitu kelas Vehicle. Untuk kelompok B desain yang digunakan yaitu Multiple Inheritance. kelas Driver merupakan orang (Person) karena Driver memiliki data dan identitas orang, seperti NIK, nama, dan jenis kelamin. Driver juga sekaligus merupakan pekerjaan (Job) karena seorang Driver akan memiliki data pekerjaan, seperti nip, nama perusahaan, dan jabatan. Sehingga kelas Driver memiliki parent class Person dan Job.
 <br>
 
